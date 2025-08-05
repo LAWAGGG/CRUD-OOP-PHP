@@ -7,7 +7,10 @@ class DB
     public $database;
     public $connect;
 
-     public function __construct($hostname, $username, $password, $database)
+    //hellow
+
+
+    public function __construct($hostname, $username, $password, $database)
     {
         $this->hostname = $hostname;
         $this->username = $username;

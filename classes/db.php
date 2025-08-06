@@ -7,6 +7,8 @@ class DB
     public $database;
     public $connect;
 
+    //lahh
+
     public function __construct($hostname, $username, $password, $database)
     {
         $this->hostname = $hostname;
